@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Clara Paulino
+# 👩🏾‍💻Clara Paulino
 
 **`Desenvolvedora FullStack`**
 
