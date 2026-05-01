@@ -1,18 +1,18 @@
 # 👩🏾‍💻Clara Paulino
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora e Desing`**
 
-Me chamo Maria Clara, tenho 17 anos e sou natural de Limoeiro. Estou cursando o último ano do ensino médio na ETE Limoeiro, com o curso técnico em Desenvolvimento de sistmas. Sou apaixonada por tecnologia, futebol, futsal e gravo conteúdos visais por dirversão. Compartilho alguns vídeos no meu canal do YouTube "[Clara Paulino](https://https://www.youtube.com/channel/UCaSOt4mgkFAHZoBoJMrQXzg)", Também mostro minha ronita de vida como estudante através do Instagram, com meu perfil pessoal "[@mclarapaulinoo](https://www.instagram.com/mclarapaulinoo/)".
+Me chamo Maria Clara, tenho 17 anos e sou natural de Limoeiro. Estou cursando o último ano do ensino médio na ETE Limoeiro, com o curso técnico em Desenvolvimento de sistmas. Sou apaixonada por tecnologia, futebol, futsal e gravo conteúdos visais por dirversão. Compartilho alguns vídeos no meu canal do YouTube "[Clara Paulino](https://www.youtube.com/@larissakich)", Também mostro minha ronita de vida como estudante através do Instagram, com meu perfil pessoal  "[@mclarapaulinoo](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/channel/UCaSOt4mgkFAHZoBoJMrQXzg"> 
+    <a href="https://www.youtube.com/@ClaraPaulinoo">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://https://www.youtube.com/channel/UCaSOt4mgkFAHZoBoJMrQXzg">
+    <a href="https://www.youtube.com/@ClaraPaulinoo">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -26,7 +26,7 @@ Me chamo Maria Clara, tenho 17 anos e sou natural de Limoeiro. Estou cursando o 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/MariaClaraPaulino">
+    <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -88,7 +88,9 @@ Me chamo Maria Clara, tenho 17 anos e sou natural de Limoeiro. Estou cursando o 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
- 
+
+
+
 
 <img 
     align="left" 
@@ -110,3 +112,22 @@ Me chamo Maria Clara, tenho 17 anos e sou natural de Limoeiro. Estou cursando o 
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
